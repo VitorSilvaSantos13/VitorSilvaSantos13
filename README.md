@@ -1,12 +1,12 @@
-## Olá Vitor Silva aqui!
+## Hello Vitor Silva here!
 
 
 
-- 🔭 Em busca do primeiro emprego
-- 🌱 Estudando everthing!
+- 🔭 Looking for the first job
+- 🌱 Studying everthing!
 - 😄 Surname: Vitão
 
-## Algumas linguagens que já utilzei
+## Some languages I've used
 ![python](https://user-images.githubusercontent.com/70242244/148301146-fc013e46-ef04-4a55-a17d-51c432d12544.png)
 ![csharp_original_logo_icon](https://user-images.githubusercontent.com/70242244/148301165-d35da43f-d377-45c1-8e39-a5dc144183d8.png)
 ![java_original_wordmark_logo_icon](https://user-images.githubusercontent.com/70242244/148301180-6ab45fd0-8c27-4b47-b284-2491895485e1.png)
