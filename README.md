@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Looking for the first job
-- 🌱 Studying everthing!
-- 😄 Surname: Vitão
+
+- Studying everthing!
+- Surname: Vitão
 
 ## Some languages I've used
 ![python](https://user-images.githubusercontent.com/70242244/148301146-fc013e46-ef04-4a55-a17d-51c432d12544.png)
