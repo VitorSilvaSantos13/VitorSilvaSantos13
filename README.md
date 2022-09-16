@@ -1,9 +1,9 @@
-## Hello Vitor Silva here!
+## Salve! Bem-vindo!
 
 
 - Social: Vitão
 
-## Some languages I've used
+## Algumas coisas que já utiizei:
 ![python](https://user-images.githubusercontent.com/70242244/148301146-fc013e46-ef04-4a55-a17d-51c432d12544.png)
 ![csharp_original_logo_icon](https://user-images.githubusercontent.com/70242244/148301165-d35da43f-d377-45c1-8e39-a5dc144183d8.png)
 ![java_original_wordmark_logo_icon](https://user-images.githubusercontent.com/70242244/148301180-6ab45fd0-8c27-4b47-b284-2491895485e1.png)
