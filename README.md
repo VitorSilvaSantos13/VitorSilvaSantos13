@@ -29,6 +29,7 @@
 ![java_original_wordmark_logo_icon](https://user-images.githubusercontent.com/70242244/148301180-6ab45fd0-8c27-4b47-b284-2491895485e1.png)
 ![nodejs_original_wordmark_logo_icon](https://user-images.githubusercontent.com/70242244/148301246-8b60fdd0-e3c3-45c7-a2e0-a442a76b8416.png)
 ![react_original_logo_icon](https://user-images.githubusercontent.com/70242244/148301255-6ffb3201-7f47-4eaa-a9ac-5df0b854aa58.png)
+![mysql_original_wordmark_logo_icon](https://user-images.githubusercontent.com/70242244/148301289-504255dc-12ff-4ac8-9c64-9f0dbcd9744d.png)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
